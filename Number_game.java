@@ -1,4 +1,4 @@
-package number_game;
+package task;
 import java.util.Random;
 import java.util.Scanner;
 public class number_game {
